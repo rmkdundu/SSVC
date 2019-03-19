@@ -6,7 +6,7 @@
 <title>Untitled Document</title>
 </head>
     <%@include file="header.jsp" %>
-<body> sssss
+<body> 
 <form id="form1" name="form1" method="post" action="">
  <!--<table width="200" border="1">
      <tr><td> <a href="about.jsp"> About</a> </td></tr>
