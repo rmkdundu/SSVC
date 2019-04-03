@@ -66,5 +66,5 @@ public class GetSetPixels{
     }catch(IOException e){
       System.out.println(e);
     }
-  }//main() ends here
-}//class ends here
+  }
+}
