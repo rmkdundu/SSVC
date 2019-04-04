@@ -10,9 +10,9 @@
             <div class="hotel-room text-center">
               <a href="#" class="d-block mb-4 thumbnail"><img src="images/person_1.jpg" alt="Image" class="img-fluid  rounded-circle w-50"></a>
               <div class="p-4">
-                <h3 class="heading mb-0 h5 "><a href="#" class="text-black">Angella Lopez</a></h3>
-                <p class="mb-3">Vinyasa Flow, Hatha, Meditation</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta labore recusandae soluta quis.</p>
+                <h3 class="heading mb-0 h5 "><a href="#" class="text-black"></a></h3>
+                <p class="mb-3"></p>
+                <p>We fight to win and win with a knock out,because there are no runners up in war. -Genereal JJ Singh</p>
                 <p><a href="#" class="text-primary">Read More <span class="icon-arrow-right small"></span></a></p>
               </div>
             </div>
@@ -97,20 +97,20 @@
             <div class="text-center item">
               <span class="flaticon-002-lotus display-3 mb-3 d-block text-primary"></span>
               <h2 class="h5">Mindfullness</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde temporibus</p>
+              <p></p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="text-center item">
               <span class="flaticon-003-meditation display-3 mb-3 d-block text-primary"></span>
               <h2 class="h5">Meditation</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde temporibus</p>
+              <p></p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="text-center item">
               <span class="flaticon-004-carpet display-3 mb-3 d-block text-primary"></span>
-              <h2 class="h5">Yoga Carpet</h2>
+              <h2 class="h5"></h2>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde temporibus</p>
             </div>
           </div>
