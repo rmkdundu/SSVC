@@ -4,10 +4,13 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/src/java/mypackage/EncryptFile.java</file>
+            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/mo_viewntfn.jsp</file>
+            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/cmdo_viewteam.jsp</file>
             <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/src/java/mypackage/sendmail.java</file>
             <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/adteam.jsp</file>
             <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/adminhome.jsp</file>
             <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/src/java/mypackage/GetSetPixels.java</file>
+            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/about.jsp</file>
         </group>
     </open-files>
 </project-private>
