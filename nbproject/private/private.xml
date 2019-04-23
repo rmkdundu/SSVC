@@ -3,22 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/mo_viewntfn.jsp</file>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/src/java/mypackage/sendmail.java</file>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/src/java/mypackage/Readpixel.java</file>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/adteam.jsp</file>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/chome.jsp</file>
             <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/login1.jsp</file>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/mo_sndrply.jsp</file>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/src/java/mypackage/EncryptFile.java</file>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/delete.jsp</file>
             <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/cmdo_viewteam.jsp</file>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/view_memebers.jsp</file>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/src/java/mypackage/GetSetPixels.java</file>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/adminhome.jsp</file>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/header.jsp</file>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/footer1.jsp</file>
-            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/about.jsp</file>
+            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/cmdo_viewrply.jsp</file>
+            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/cmdo_viewprofile.jsp</file>
+            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/web/cmdo_sndcmplnt.jsp</file>
+            <file>file:/C:/Users/genuine/Documents/NetBeansProjects/SSVC/src/java/mypackage/sendmail.java</file>
         </group>
     </open-files>
 </project-private>
